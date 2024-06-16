@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hiruna Pramuditha</h1>
 
 <div>
-   <img src="https://github.com/NishanHP/NishanHP/assets/129140129/5d7a4c45-616d-4e16-a162-10adc039047a" width="250" height="250" align="right">
+   <img src="https://github.com/NishanHP/NishanHP/assets/129140129/ed7ee71d-1c7e-4a06-b290-f745143667c4" width="250" height="250" align="right">
   <div align = "left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=CS+Undergraduate;IT+Enthusiast;Passionate+Self+Lerner" alt="Typing SVG" /></a>
 
@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **hiruna.nishan@gmail.com**
   </div>
-  
+
+
 
     <br clear="both">
 </div>
